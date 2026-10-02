@@ -1,3 +1,4 @@
 FIO:Semenov Andrey Viktorovich + Yakovlev Andrey Olegovich
 Group:09.07.14p2
 Discipline:sistemnoe programmirovanie
+prakticheskaya rabota vipolnena
