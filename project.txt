@@ -1,0 +1,3 @@
+nazvanie proekta:Git practice
+avtori:Andrey Semenov+Andrey Yakovlev+ Aleksandr Solyanik
+gruppa: 09.07.14n2
