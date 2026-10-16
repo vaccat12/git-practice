@@ -1,0 +1,6 @@
+plan raboti:
+1.izuchit git
+2.sozdat izmeneniya
+3.sozddat commit
+4.proverit istoriyu
+5.otpravit izmeneiya na github
