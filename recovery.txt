@@ -1,0 +1,3 @@
+practic number 4
+tema: cancle and vosstanovlenie izmeneni Git.
+sostoyanie: ishodnaya version.
